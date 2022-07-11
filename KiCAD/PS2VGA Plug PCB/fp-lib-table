@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PS2VGA")(type "KiCad")(uri "/Users/jeffchen/KiCAD/PS2VGA/PS2VGA.pretty")(options "")(descr ""))
+)
